@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Whispr",
+    "slug": "Whispr",
+    "version": "1.0.0",
+    "plugins": ["@react-native-firebase/app", "@react-native-firebase/auth", "expo-dev-client"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.whoisrambo.Whispr"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bde272c1-f1cb-496c-b7dd-d4bccade5a5b"
+      }
+    }
+  }
+}

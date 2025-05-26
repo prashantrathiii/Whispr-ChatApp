@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544619184870",
+    "project_id": "whispr-cff1c",
+    "storage_bucket": "whispr-cff1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544619184870:android:9327cd3180e05a19ed7127",
+        "android_client_info": {
+          "package_name": "com.whoisrambo.Whispr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoehPyJ63Qip2M-VDTEcWsuifua0hrI1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
